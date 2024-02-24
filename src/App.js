@@ -116,7 +116,7 @@ function App() {
 						</h2>
 					</div>
 					<div className="date">
-          git remote add origin https://github.com/sourabh9050/weather.git
+         
 
 						<span>{toDateFunction()}</span>
 					</div>
